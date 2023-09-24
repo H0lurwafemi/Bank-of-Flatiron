@@ -10,5 +10,5 @@ Data Fetching: Implement data fetching from a local server running a JSON DB ser
 
 Project Setup: Properly set up your project by creating a new project folder and a private GitHub repository. Also, add your Teaching Mentor (TM) as a contributor to the repository for grading purposes.
 
-
+LINK TO PROJECT
 http://bankofflattiron.infinityfreeapp.com/?i=1
