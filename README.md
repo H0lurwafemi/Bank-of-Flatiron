@@ -1,8 +1,16 @@
-# React + Vite
+Bank Transactions React Application
+Overview
+This project involves building a React application that displays recent bank transactions fetched from a local JSON DB server. The application allows users to view transaction data in a table, add new transactions, and filter transactions based on their descriptions.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Project Setup
+Pre-requisite Data
+Create a db.json file in your project directory and use the provided data (dataLinks to an external site.) for your JSON DB server.
+Start the backend server using the following command: json-server --watch db.json
 
-Currently, two official plugins are available:
+My Project Structure
+I created a new project folder.
+I created a new private GitHub repository for your project.
+I Committed the code to the repository.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Author
+Stephen Oluwafemi
